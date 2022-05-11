@@ -1,0 +1,12 @@
+*~
+input/
+output/
+.py.*
+*csv
+*pkl
+*feather
+__pycache__/
+.ipynb_checkpoints/
+.mypy_cache/
+*.ipynb
+catboost_info/
